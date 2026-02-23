@@ -49,6 +49,33 @@ Contact and booking pages simplify user action.
 ## Prototype
 prototype link:- https://www.figma.com/proto/EdvTt0ffTIJANm3SJtAEUA/day-5?node-id=7-880&t=XFl0Lf2tRJqOeUju-1
 
+## Design File
+https://www.figma.com/design/EdvTt0ffTIJANm3SJtAEUA/day-5?node-id=2-313&t=XFl0Lf2tRJqOeUju-1
+
+---
+
+## Screenshots
+
+## Home page
+
+<img width="390" height="856" alt="1 home" src="https://github.com/user-attachments/assets/e032101c-85a9-4c31-b51b-880ecb9461f1" />
+
+## Service page
+
+<img width="390" height="856" alt="2 service" src="https://github.com/user-attachments/assets/5e2c757e-6264-49ea-9fa9-0ee185617649" />
+
+## Contact page
+
+<img width="390" height="856" alt="3 contact" src="https://github.com/user-attachments/assets/179913c0-11bc-46ec-8b3a-32e38e118c1c" />
+
+## Appointment Booking Page
+
+<img width="390" height="856" alt="4 Book" src="https://github.com/user-attachments/assets/393a1e7e-d9dd-4abc-b64a-196fd96c5d45" />
+
+
+
+
+
 
 
 
