@@ -46,7 +46,7 @@ Contact and booking pages simplify user action.
 
 ---
 
-## Screenshots
+## Prototype
 
 ## Home page
 <img width="273" height="602" alt="image" src="https://github.com/user-attachments/assets/da2408fb-e4f3-403c-9512-6008c5d1b2b5" />
